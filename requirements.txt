@@ -1,0 +1,4 @@
+gradio
+llama-cpp-python
+onnxruntime
+numpy
